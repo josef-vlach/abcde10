@@ -48,6 +48,13 @@
           "label": ""
         },
         {
+          "id": "information",
+          "type": "info",
+          "label": "",
+          "infoType": "noformat",
+          "infoText": "Hello"
+        },
+        {
           "id": "lastname",
           "type": "text",
           "label": ""
