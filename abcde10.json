@@ -45,7 +45,7 @@
         {
           "id": "firstname",
           "type": "text",
-          "label": ""
+          "label": "What is your first name?"
         },
         {
           "id": "information2",
