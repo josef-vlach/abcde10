@@ -29,7 +29,13 @@
     },
     {
       "title": "Section 2",
-      "fields": []
+      "fields": [
+        {
+          "id": "firstFirst",
+          "type": "text",
+          "label": "What is your first name?"
+        }
+      ]
     },
     {
       "title": "Section 4",
