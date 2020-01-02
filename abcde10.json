@@ -46,6 +46,11 @@
           "id": "firstname",
           "type": "text",
           "label": ""
+        },
+        {
+          "id": "lastname",
+          "type": "text",
+          "label": ""
         }
       ]
     }
