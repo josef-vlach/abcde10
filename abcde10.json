@@ -48,6 +48,13 @@
           "label": ""
         },
         {
+          "id": "information2",
+          "type": "info",
+          "label": "",
+          "infoType": "noformat",
+          "infoText": "Hello2"
+        },
+        {
           "id": "information",
           "type": "info",
           "label": "",
