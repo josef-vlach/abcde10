@@ -55,6 +55,13 @@
           "infoText": "Hello2"
         },
         {
+          "id": "info3",
+          "type": "info",
+          "label": "",
+          "infoType": "important",
+          "infoText": "imp"
+        },
+        {
           "id": "information",
           "type": "info",
           "label": "",
