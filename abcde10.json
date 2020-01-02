@@ -41,15 +41,7 @@
     },
     {
       "title": "Section 3",
-      "fields": [
-        {
-          "id": "information2",
-          "type": "info",
-          "label": "",
-          "infoType": "banner",
-          "infoText": "Information 2"
-        }
-      ]
+      "fields": []
     }
   ]
 }
