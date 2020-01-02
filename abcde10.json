@@ -34,6 +34,12 @@
     {
       "title": "Section 4",
       "fields": []
+    },
+    {
+      "title": "Section 7",
+      "shortName": "Area 51",
+      "progressIndicator": "Welcome",
+      "fields": []
     }
   ]
 }
