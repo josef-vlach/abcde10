@@ -41,7 +41,13 @@
     },
     {
       "title": "Section 3",
-      "fields": []
+      "fields": [
+        {
+          "id": "firstname",
+          "type": "text",
+          "label": ""
+        }
+      ]
     }
   ]
 }
