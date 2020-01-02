@@ -43,35 +43,11 @@
       "title": "Section 3",
       "fields": [
         {
-          "id": "firstname",
-          "type": "text",
-          "label": "What is your first name?"
-        },
-        {
-          "id": "information2",
+          "id": "information5",
           "type": "info",
           "label": "",
           "infoType": "noformat",
-          "infoText": "Hello2"
-        },
-        {
-          "id": "info3",
-          "type": "info",
-          "label": "",
-          "infoType": "important",
-          "infoText": "imp"
-        },
-        {
-          "id": "information",
-          "type": "info",
-          "label": "",
-          "infoType": "noformat",
-          "infoText": "Hello"
-        },
-        {
-          "id": "lastname",
-          "type": "text",
-          "label": ""
+          "infoText": "Information 5"
         }
       ]
     }
