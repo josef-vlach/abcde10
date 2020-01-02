@@ -34,6 +34,11 @@
           "id": "firstFirst",
           "type": "text",
           "label": "What is your first name?"
+        },
+        {
+          "id": "secondName",
+          "type": "text",
+          "label": "What is you second name?"
         }
       ]
     },
