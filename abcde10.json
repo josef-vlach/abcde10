@@ -135,6 +135,15 @@
             "TTTT",
             "SSSS"
           ]
+        },
+        {
+          "id": "cats2",
+          "type": "choice",
+          "label": "Size cats",
+          "choices": [
+            "Big",
+            "Small"
+          ]
         }
       ]
     }
