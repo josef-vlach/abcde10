@@ -40,6 +40,13 @@
           "type": "text",
           "label": "What is you second name?",
           "multiline": "false"
+        },
+        {
+          "id": "desc",
+          "type": "text",
+          "label": "Description",
+          "helpText": "The maximum number of documents you can upload is 10.",
+          "multiline": "true"
         }
       ]
     },
