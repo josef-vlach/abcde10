@@ -92,6 +92,14 @@
           "format": "vertical"
         },
         {
+          "id": "abs",
+          "type": "choice",
+          "label": "",
+          "multivalue": "false",
+          "choices": [],
+          "format": "yesno"
+        },
+        {
           "id": "AAA",
           "type": "choice",
           "label": "Bs or Cs?",
