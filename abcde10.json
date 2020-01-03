@@ -102,6 +102,8 @@
           "id": "research",
           "type": "text",
           "label": "What do you research for?",
+          "mandatory": "true",
+          "errorMessage": "You need to tell us",
           "displayWidth": "xs"
         }
       ]
