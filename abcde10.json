@@ -86,6 +86,17 @@
             "BBB",
             "CCC"
           ]
+        },
+        {
+          "id": "CCC",
+          "type": "choice",
+          "label": "CCC",
+          "multivalue": "false",
+          "choices": [
+            "CCC1",
+            "CCC2"
+          ],
+          "format": "vertical"
         }
       ]
     }
