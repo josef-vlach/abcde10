@@ -43,11 +43,13 @@
         },
         {
           "id": "desc",
-          "type": "text",
-          "label": "Description",
-          "helpText": "The maximum number of documents you can upload is 10.",
-          "format": "text(0, 3000)",
-          "multiline": "true"
+          "type": "choice",
+          "label": "Your description",
+          "multivalue": "false",
+          "choices": [
+            "Ice and Earth2",
+            "Fire and Water2"
+          ]
         }
       ]
     },
