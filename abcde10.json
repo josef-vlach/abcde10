@@ -81,7 +81,8 @@
           "multivalue": "false",
           "choices": [
             "ZZZZ",
-            "XXXX"
+            "XXXX",
+            "YYYY"
           ],
           "format": "vertical"
         },
