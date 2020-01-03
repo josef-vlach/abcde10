@@ -55,10 +55,15 @@
         {
           "id": "abc",
           "type": "choice",
-          "label": "dasds",
-          "choiceFormat": "yesno",
+          "label": "Vlastnis psa?",
           "mandatory": "true",
           "multivalue": "false",
+          "choices": [
+            "ZZZZ",
+            "XXXX",
+            "DDD",
+            "EEE"
+          ],
           "format": "yesno"
         },
         {
