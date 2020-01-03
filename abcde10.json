@@ -175,6 +175,14 @@
             "Not so much angels"
           ],
           "format": "horizontal"
+        },
+        {
+          "id": "sdsadas",
+          "type": "choice",
+          "label": "dsadasdas",
+          "multivalue": "false",
+          "choices": [],
+          "format": "yesno"
         }
       ]
     }
