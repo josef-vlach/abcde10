@@ -65,12 +65,13 @@
           "id": "aaa",
           "type": "choice",
           "label": "AAA",
-          "choiceFormat": "vertical",
           "mandatory": "true",
           "multivalue": "false",
           "choices": [
             "AAA",
-            "BBB"
+            "BBB",
+            "CCC",
+            ""
           ],
           "format": "vertical"
         },
