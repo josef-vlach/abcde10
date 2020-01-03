@@ -145,7 +145,7 @@
           "type": "choice",
           "label": "Mischief cats",
           "choices": [
-            "Angels",
+            "Angels2",
             "Not so much angels"
           ]
         }
