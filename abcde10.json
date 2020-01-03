@@ -64,6 +64,19 @@
           "mandatory": "true",
           "multivalue": "false",
           "format": "yesno"
+        },
+        {
+          "id": "aaa",
+          "type": "choice",
+          "label": "AAA",
+          "choiceFormat": "vertical",
+          "mandatory": "true",
+          "multivalue": "false",
+          "choices": [
+            "AAA",
+            "BBB"
+          ],
+          "format": "vertical"
         }
       ]
     }
