@@ -55,7 +55,17 @@
     },
     {
       "title": "Section 4",
-      "fields": []
+      "fields": [
+        {
+          "id": "abc",
+          "type": "choice",
+          "label": "dasds",
+          "choiceFormat": "yesno",
+          "mandatory": "true",
+          "multivalue": "false",
+          "format": "yesno"
+        }
+      ]
     }
   ]
 }
