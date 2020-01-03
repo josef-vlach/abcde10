@@ -97,6 +97,12 @@
             "CCC2"
           ],
           "format": "vertical"
+        },
+        {
+          "id": "research",
+          "type": "text",
+          "label": "What do you research for?",
+          "displayWidth": "xs"
         }
       ]
     }
