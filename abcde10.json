@@ -77,6 +77,15 @@
             "BBB"
           ],
           "format": "vertical"
+        },
+        {
+          "id": "AAA",
+          "type": "choice",
+          "label": "",
+          "choices": [
+            "BBB",
+            "CCC"
+          ]
         }
       ]
     }
