@@ -67,6 +67,13 @@
           "format": "yesno"
         },
         {
+          "id": "info",
+          "type": "info",
+          "label": "Inf",
+          "infoType": "standard",
+          "infoText": "# Informace"
+        },
+        {
           "id": "aaa",
           "type": "choice",
           "label": "AAA",
