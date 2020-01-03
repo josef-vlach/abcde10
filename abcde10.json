@@ -67,6 +67,14 @@
           "format": "yesno"
         },
         {
+          "id": "qwerty",
+          "type": "choice",
+          "label": "POKLOP",
+          "multivalue": "false",
+          "choices": [],
+          "format": "yesno"
+        },
+        {
           "id": "info",
           "type": "info",
           "label": "Inf",
