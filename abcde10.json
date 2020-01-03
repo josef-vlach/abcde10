@@ -147,7 +147,8 @@
           "choices": [
             "Angels2",
             "Not so much angels"
-          ]
+          ],
+          "format": "horizontal"
         }
       ]
     }
