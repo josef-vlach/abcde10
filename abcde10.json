@@ -68,7 +68,10 @@
           "mandatory": "true",
           "multivalue": "false",
           "choices": [
-            ""
+            "AAA",
+            "BBB",
+            "CCC",
+            "DDD"
           ],
           "format": "vertical"
         },
