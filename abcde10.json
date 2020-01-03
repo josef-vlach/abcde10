@@ -197,7 +197,13 @@
     {
       "progressIndicator": "White list paper",
       "title": "Section 5",
-      "fields": []
+      "fields": [
+        {
+          "id": "file123",
+          "type": "file",
+          "label": "Upload evidence"
+        }
+      ]
     }
   ]
 }
