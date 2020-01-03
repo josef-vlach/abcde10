@@ -114,6 +114,11 @@
           ]
         },
         {
+          "id": "poklop",
+          "type": "text",
+          "label": "Poklop"
+        },
+        {
           "id": "catordog2",
           "type": "choice",
           "label": "",
