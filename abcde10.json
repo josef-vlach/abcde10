@@ -130,7 +130,7 @@
             "Red",
             "Blue"
           ],
-          "format": "vertical"
+          "format": "horizontal"
         },
         {
           "id": "cats2",
