@@ -101,14 +101,8 @@
         },
         {
           "id": "AAA",
-          "type": "choice",
-          "label": "Bs or Cs?",
-          "choices": [
-            "BBB",
-            "CCC",
-            "DDD",
-            "EEE"
-          ]
+          "type": "text",
+          "label": "Bs or Cs?"
         },
         {
           "id": "catordog",
