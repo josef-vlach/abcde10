@@ -197,6 +197,7 @@
     {
       "progressIndicator": "White list paper",
       "title": "Section 5",
+      "continueIf": "${abc contains 1}",
       "fields": [
         {
           "id": "file123",
