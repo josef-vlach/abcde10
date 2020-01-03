@@ -193,6 +193,11 @@
           "format": "yesno"
         }
       ]
+    },
+    {
+      "title": "Section 5",
+      "progressIndicator": "White list paper",
+      "fields": []
     }
   ]
 }
