@@ -77,7 +77,7 @@
         {
           "id": "AAA",
           "type": "choice",
-          "label": "",
+          "label": "Bs or Cs?",
           "choices": [
             "BBB",
             "CCC"
