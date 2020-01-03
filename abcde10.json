@@ -128,12 +128,7 @@
           "multivalue": "false",
           "choices": [
             "Red",
-            "Blue",
-            "EEE",
-            "VVVV",
-            "RRRR",
-            "TTTT",
-            "SSSS"
+            "Blue"
           ]
         },
         {
