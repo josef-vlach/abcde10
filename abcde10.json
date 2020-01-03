@@ -120,6 +120,21 @@
           "mandatory": "true",
           "errorMessage": "You need to tell us right now",
           "displayWidth": "xs"
+        },
+        {
+          "id": "cats",
+          "type": "choice",
+          "label": "What color do your cat has?",
+          "multivalue": "false",
+          "choices": [
+            "Red",
+            "Blue",
+            "EEE",
+            "VVVV",
+            "RRRR",
+            "TTTT",
+            "SSSS"
+          ]
         }
       ]
     }
