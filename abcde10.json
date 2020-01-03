@@ -82,7 +82,8 @@
           "choices": [
             "ZZZZ",
             "XXXX",
-            "YYYY"
+            "YYYY",
+            "WWWW"
           ],
           "format": "vertical"
         },
