@@ -136,8 +136,8 @@
           "type": "choice",
           "label": "Size cats",
           "choices": [
-            "Big",
-            "Small"
+            "Big2",
+            "Small2"
           ]
         }
       ]
