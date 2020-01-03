@@ -139,6 +139,15 @@
             "Big2",
             "Small2"
           ]
+        },
+        {
+          "id": "cats3",
+          "type": "choice",
+          "label": "Mischief cats",
+          "choices": [
+            "Angels",
+            "Not so much angels"
+          ]
         }
       ]
     }
