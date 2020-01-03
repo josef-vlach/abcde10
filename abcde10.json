@@ -39,7 +39,7 @@
           "id": "secondName",
           "type": "text",
           "label": "What is you second name?",
-          "multiline": "true"
+          "multiline": "false"
         }
       ]
     },
