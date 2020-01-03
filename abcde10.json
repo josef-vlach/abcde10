@@ -112,6 +112,15 @@
           ]
         },
         {
+          "id": "catordog2",
+          "type": "choice",
+          "label": "",
+          "choices": [
+            "DOg",
+            "CAT"
+          ]
+        },
+        {
           "id": "CCC",
           "type": "choice",
           "label": "CCC",
