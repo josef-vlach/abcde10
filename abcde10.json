@@ -70,7 +70,7 @@
           "id": "info",
           "type": "info",
           "label": "Inf",
-          "infoType": "long",
+          "infoType": "important",
           "infoText": "# Informace"
         },
         {
