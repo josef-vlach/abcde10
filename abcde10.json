@@ -79,7 +79,9 @@
           "label": "Bs or Cs?",
           "choices": [
             "BBB",
-            "CCC"
+            "CCC",
+            "DDD",
+            "EEE"
           ]
         },
         {
