@@ -2,7 +2,7 @@
   "authConfig": {
     "authModule": "anonymous"
   },
-  "formName": "Cats and dogs",
+  "formName": "Cats and dogs 2",
   "destinations": [
     {
       "id": "transitionToSubmitted",
