@@ -2,6 +2,7 @@
   "authConfig": {
     "authModule": "anonymous"
   },
+  "developmentPhase": "alpha",
   "formName": "Cats and dogs 2",
   "destinations": [
     {
