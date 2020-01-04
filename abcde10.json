@@ -180,7 +180,8 @@
           "label": "Mischief cats",
           "choices": [
             "Angels2",
-            "Not so much angels"
+            "Not so much angels",
+            "Quite the contrary"
           ],
           "format": "horizontal"
         },
