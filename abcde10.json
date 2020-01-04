@@ -50,6 +50,151 @@
       ]
     },
     {
+      "title": "Section 4",
+      "fields": [
+        {
+          "id": "abc",
+          "type": "choice",
+          "label": "Vlastnis psa?",
+          "mandatory": "true",
+          "multivalue": "false",
+          "choices": [
+            "ZZZZ",
+            "XXXX",
+            "DDD",
+            "EEE"
+          ],
+          "format": "yesno"
+        },
+        {
+          "id": "qwerty",
+          "type": "choice",
+          "label": "POKLOP",
+          "multivalue": "false",
+          "choices": [],
+          "format": "yesno"
+        },
+        {
+          "id": "info",
+          "type": "info",
+          "label": "Inf",
+          "infoType": "important",
+          "infoText": "# Informace\n\njhjghjj  jgjhghjjgj gj gjj  g gj j  gj hj"
+        },
+        {
+          "id": "aaa",
+          "type": "choice",
+          "label": "AAA",
+          "mandatory": "true",
+          "multivalue": "false",
+          "choices": [
+            "ZZZZ",
+            "XXXX",
+            "YYYY",
+            "WWWW",
+            "VVVV",
+            "RRRR",
+            "TTTT",
+            "SSSS"
+          ],
+          "format": "vertical"
+        },
+        {
+          "id": "abs",
+          "type": "choice",
+          "label": "",
+          "multivalue": "false",
+          "choices": [],
+          "format": "yesno"
+        },
+        {
+          "id": "AAA",
+          "type": "text",
+          "label": "Bs or Cs?"
+        },
+        {
+          "id": "catordog",
+          "type": "choice",
+          "label": "Cat or dog?",
+          "choices": [
+            "Cat",
+            "Dog"
+          ]
+        },
+        {
+          "id": "poklop",
+          "type": "text",
+          "label": "Poklop"
+        },
+        {
+          "id": "catordog2",
+          "type": "choice",
+          "label": "",
+          "choices": [
+            "DOg",
+            "CAT"
+          ]
+        },
+        {
+          "id": "CCC",
+          "type": "choice",
+          "label": "CCC",
+          "multivalue": "false",
+          "choices": [
+            "CCC1",
+            "CCC222"
+          ],
+          "format": "vertical"
+        },
+        {
+          "id": "research",
+          "type": "text",
+          "label": "What do you research for?",
+          "mandatory": "true",
+          "errorMessage": "You need to tell us right now",
+          "displayWidth": "xs"
+        },
+        {
+          "id": "cats",
+          "type": "choice",
+          "label": "What color do your cat has?",
+          "multivalue": "false",
+          "choices": [
+            "Red",
+            "Blue"
+          ],
+          "format": "horizontal"
+        },
+        {
+          "id": "cats2",
+          "type": "choice",
+          "label": "Size cats",
+          "choices": [
+            "Big2",
+            "Small2"
+          ]
+        },
+        {
+          "id": "cats3",
+          "type": "choice",
+          "label": "Mischief cats",
+          "choices": [
+            "Angels2",
+            "Not so much angels"
+          ],
+          "format": "horizontal"
+        },
+        {
+          "id": "sdsadas",
+          "type": "choice",
+          "label": "dsadasdas",
+          "multivalue": "false",
+          "choices": [],
+          "format": "yesno"
+        }
+      ]
+    },
+    {
       "progressIndicator": "White list paper",
       "title": "Section 5",
       "continueIf": "${abc contains 1}",
