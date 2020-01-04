@@ -180,8 +180,7 @@
           "label": "Mischief cats",
           "choices": [
             "Angels2",
-            "Not so much angels",
-            "Quite the contrary of an angel"
+            "Not so much angels"
           ],
           "format": "horizontal"
         },
@@ -197,8 +196,8 @@
     },
     {
       "progressIndicator": "White list paper",
-      "includeIf": "${abc contains 1}",
       "title": "Section 5",
+      "continueIf": "${abc contains 1}",
       "fields": [
         {
           "id": "file123",
